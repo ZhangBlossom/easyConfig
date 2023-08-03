@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigClient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigDataBase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigDataBase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigMQ/easyConfigMQ-Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigMQ/easyConfigMQ-Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigMQ/easyConfigMQ-Producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigMQ/easyConfigMQ-Producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigMQ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigMQ/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigWebSocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyConfigWebSocket/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

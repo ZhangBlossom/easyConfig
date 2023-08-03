@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url:
+  profiles:
+    active: dev
+server:
+  port: 8080
+
+easy:
+  config:
+    group: blossom
+    projectName: easyConfig
+    environment: dev
